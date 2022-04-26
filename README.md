@@ -7,12 +7,12 @@ Table of Contents
 - [Features](#features)
 - [Requirements](#requirements)
 - [Instalation](#instalation)
-- [Usage](#run-it-locally)
+- [Usage](#basic-usage)
 
 ## Description
 This projet is a REST API made with FastAPI.
 
-###Features
+## Features
 - Fast API
 - Python 3.9+
 - Postgres
